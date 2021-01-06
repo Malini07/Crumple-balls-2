@@ -41,7 +41,7 @@ function draw() {
   box2.display();
   box3.display();
 
-  keyPressed()
+ 
 
  
 
